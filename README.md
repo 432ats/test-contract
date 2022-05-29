@@ -1,0 +1,2 @@
+# test_contract
+test networkに独自コントラクトをデプロイ
