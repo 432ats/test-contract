@@ -1,6 +1,6 @@
 {
-  "tokenId": "1",
-  "name": "candy 1",
-  "description": "material : pine, kiwi",
+  "tokenId": "2",
+  "name": "candy 2",
+  "description": "material : orange, cherry",
   "image": "https://raw.githubusercontent.com/432ats/test-contract/main/image/2.png"
 }
